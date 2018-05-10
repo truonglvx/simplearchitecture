@@ -1,0 +1,6 @@
+node_modules
+../web/aviron/node_modules
+../web/aviron-modile/node_modules
+../web/aviron-ssr/node_modules
+
+../api/node_modules
