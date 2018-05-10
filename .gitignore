@@ -4,3 +4,4 @@ node_modules
 ../web/aviron-ssr/node_modules
 
 ../api/node_modules
+../headlesscms/node_modules
